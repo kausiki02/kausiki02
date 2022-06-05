@@ -2,8 +2,8 @@
 
 <h2 align="center"> Hello there, I'm @kausiki02 
          <img src="https://user-images.githubusercontent.com/90125663/172058345-32fa1455-77be-4077-b4cf-5d5b31fa56fc.gif" alt="Waving hand animated gif"
-         height="1000"
-         width="1000" /></h2>
+         height="500"
+         width="500" /></h2>
   
 <h4>
 I am in my final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering.
