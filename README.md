@@ -7,7 +7,7 @@
          width="600" /></h2> </br>
   
 <h4>
-I am in my final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering.
+I am a final year computer science undergrad from IIIT-NR in the Department of Computer Science and Engineering.
 </h4>
 <table border = "0">
          <tr>
