@@ -28,13 +28,18 @@
 </p>
 </hr>
 
+
+
 <hr>
+</br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kausiki02&count_private=true&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausiki02&hide=jupyter%20notebook&layout=compact" />
-</a>
+</a> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kausiki02&show_icons=true&theme=highcontrast" alt="kausiki02" /></p>
+</br></br>
 </hr>
 
 
