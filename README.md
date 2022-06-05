@@ -5,7 +5,7 @@
          width="50" /></h1> 
   
 - 👩🏾‍💻 I am a final year computer science undergrad from IIIT-NR, India.
-- 🌱 I’m currently learning about the Data Structures and Algorithms and NodeJs.
+- 🌱 I’m currently learning about Data Structures and Algorithms and NodeJs.
 - 🌎You can reach me out on <a href= "https://www.linkedin.com/in/kausiki-ray-813b2b1a4/"> LinkedIn</a> 
 <p>
  <img align "center" height="650" width="900" src="https://user-images.githubusercontent.com/90125663/172059905-068eb375-7596-4f63-9c04-5ed732a0da6e.gif"/></p>
