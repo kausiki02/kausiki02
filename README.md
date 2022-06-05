@@ -4,7 +4,7 @@
          height="50"
          width="50" /></h1> 
   
-- 👩🏾‍💻 I am a final year computer science undergrad from IIIT-NR in the Department of Computer Science and Engineering.
+- 👩🏾‍💻 I am a final year computer science undergrad from IIIT-NR, India.
 - 🌱 I’m currently learning about the Data Structures and Algorithms and NodeJs.
 - 🌎You can reach me out on <a href= "https://www.linkedin.com/in/kausiki-ray-813b2b1a4/"> LinkedIn</a> 
 <p>
