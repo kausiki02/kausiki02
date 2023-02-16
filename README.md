@@ -5,7 +5,7 @@
          width="50" /></h1> 
          
          
-- 🔭 Working as an Full-Stack Intern at Zeiss, India. 
+- 🔭 Working as a Full-Stack Intern at Zeiss, India. 
 - 👩🏾‍💻 I am a final year computer science undergrad from IIIT-NR, India.
 - 🌱 I’m currently learning about making RESTFUL APIs.
 - 🌎 You can reach me out on <a href= "https://www.linkedin.com/in/kausiki-ray-813b2b1a4/"> LinkedIn</a> 
